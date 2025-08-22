@@ -59,6 +59,3 @@ Meal Pro is an **AI-driven meal planning and delivery platform** that combines p
 
 Meal Pro isn’t just another food delivery system – it’s a **personalized AI-powered nutrition assistant**. By combining **AI, real-time systems, and modern web technologies**, Meal Pro redefines how people discover, plan, and consume meals.
 
----
-
-Do you want me to also create a **shorter version of README (like GitHub style with badges, one-liner project intro, and quick start only)**, or keep this detailed professional one?
