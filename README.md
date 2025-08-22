@@ -1,6 +1,4 @@
-Got it. Here’s a professional **README.md** draft for your project. I’ll keep it clean, structured, and professional, with a focus on **AI-first meal planning** while also covering MERN stack details.
 
----
 
 # Meal Pro – AI-Powered Meal Planning & Delivery Platform
 
